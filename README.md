@@ -6,7 +6,7 @@
 
   <h2 align="center">Photographer Portfolio website</h2>
 
-  This is a fully responsive website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  This is a fully responsive website, <br />Responsive for all devices, build using HTML & CSS
 
   <a href="https://abhijeetjadhavportfolio.netlify.app/"><strong>➥ Live Demo</strong></a>
 
